@@ -1,4 +1,4 @@
-(Banner)[https://github.com/devirent/devirent/blob/main/files/devi-cover.png?raw=true]
+[!Banner](https://github.com/devirent/devirent/blob/main/files/devi-cover.png?raw=true)
 <p align="center">
 <a href="https://www.linkedin.com/ph/devirent"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
