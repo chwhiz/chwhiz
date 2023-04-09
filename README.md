@@ -10,9 +10,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Hi!! I am Devirent. A normal Grade 8 student who's into code from the Philippines.
+hi! i'm gab. I'm a k-pop multi stan and I am engaged to programming with mastery of HTML, CSS, JS, PHP, Node.js, etc.. 
 
-- 🔭 I’m currently working as a student.
+My fave colors are #1c0f0d and #452920
+
+miss ko na po si ante.
+
 
 ---
 
