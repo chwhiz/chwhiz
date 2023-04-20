@@ -10,11 +10,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-hi! i'm gab. I'm a k-pop multi stan and I am engaged to programming with mastery of HTML, CSS, JS, PHP, Node.js, etc.. 
+hi! I'm Gabriel Martin Guillergan. I'm a k-pop multi stan and I am engaged to programming with mastery of HTML, CSS, JS, PHP, Node.js, etc.. 
 
 My fave colors are #1c0f0d and #452920
 
-miss ko na po si ante.
 
 
 ---
