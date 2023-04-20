@@ -6,7 +6,12 @@
 
 <h1 align="center">hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+### ❓: &nbsp;What is this repository? :
 
+This is my profile repository. I post my bio here, the images are stored here and any resources that is used on my README.
+
+
+---
 
 ### :woman_technologist: &nbsp;About Me :
 
