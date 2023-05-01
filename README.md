@@ -13,11 +13,13 @@ This is my profile repository. I post my bio here, the images are stored here an
 
 ---
 
-### :woman_technologist: &nbsp;About Me :
+### 👨‍💻 : &nbsp;About Me :
 
-hi! I'm Gabriel Martin Guillergan. I'm a k-pop multi stan and I am engaged to programming with mastery of HTML, CSS, JS, PHP, Node.js, etc.. 
+hi! I'm Gabriel Martin. I'm a k-pop multi stan and I am engaged to programming with mastery of HTML, CSS, JS, PHP, Node.js and many more :)) 
 
 My fave colors are #1c0f0d and #452920
+
+i stan the person in my profile pic
 
 
 
