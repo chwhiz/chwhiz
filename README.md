@@ -42,5 +42,5 @@ Greeting! I'm Gabriel Martin. Some may know me as jeonnotcool or wooonotcool.
 
 ---
 
-Thank you for having some time to read this and have a nice day.
+Thank you for having some time to read this and have a nice day hehe
 
