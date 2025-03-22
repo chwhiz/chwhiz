@@ -3,8 +3,7 @@
 <!--</p><p align="center"><img src="https://github.com/devirent/devirent/blob/main/files/devi-cover.png?raw=true"></p>-->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jeonnotcool&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19D34C&width=435&lines=%F0%9F%91%8B+%7C+Hello!;%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%7C+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%8B)](https://git.io/typing-svg)
 ### ❓: &nbsp;What is this repository? :
 
 This repository is created for my GitHub profile. I post information and resources.
