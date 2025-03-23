@@ -1,23 +1,41 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19D34C&width=435&lines=%F0%9F%91%8B+%7C+Hello!;%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%7C+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%8B)](https://git.io/typing-svg)
+
+> **Welcome to my GitHub profile! ☆*: .｡. o(≧▽≦)o .｡.:*☆**
+
 <p align="center">
-<!--</p><p align="center"><img src="https://github.com/devirent/devirent/blob/main/files/devi-cover.png?raw=true"></p>-->
+</p><p align="center"><img src="https://github.com/chwhiz/chwhiz/blob/main/files/README/chanwon_stretched.jpg?raw=true"></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jeonnotcool&style=flat-square&color=blue" alt=""></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19D34C&width=435&lines=%F0%9F%91%8B+%7C+Hello!;%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%7C+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%8B)](https://git.io/typing-svg)
-### ❓: &nbsp;What is this repository? :
-
-This repository is created for my GitHub profile. I post information and resources.
+<p align="center">
+  <a href="#about">Menu 1</a> &nbsp;&bull;&nbsp;
+  <a href="#about">Menu 2</a>
+</p>
 
 ---
 
 ### 👨‍💻 : &nbsp;About Me :
 
-Greeting! I'm Gabriel Martin. Some may know me as jeonnotcool or wooonotcool. 
-- A Grade 10 student this academic year 2024-2025
-- I'm a k-pop multi stan
+Greetings! My name is **Gabriel Martin**, also known as [chwhiz](https://github.com/chwhiz/). 
+
+- I'm a Grade 10 student this academic year 2024-2025
+- I stan multiple
 - I play instruments and program as a hobby.
 
 ---
+### Hobbies
+> Syempre kailangan yan
+
+| Hobby | Description |
+|---|---|
+| magcode | i do this every single day. ay ewan 😆 |
+| magaral | ang saya kaya nun |
+| matulog | hobby ng lahat |
+| mangduda | *side eye* |
+
+
+---
+
 
 ### 🛠 &nbsp;Languages that I know :
 
