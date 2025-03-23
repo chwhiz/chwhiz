@@ -3,23 +3,23 @@
 
 > **Welcome to my GitHub profile! ☆*: .｡. o(≧▽≦)o .｡.:*☆**
 
-<p align="center">
-</p><p align="center"><img src="https://github.com/chwhiz/chwhiz/blob/main/files/README/chanwon_stretched.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/chwhiz/chwhiz/blob/main/files/README/chanwon_stretched.jpg?raw=true"></p>
+<p align="center">this is chanwon!</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jeonnotcool&style=flat-square&color=blue" alt=""></p>
 
 <p align="center">
-  <a href="#about">Menu 1</a> &nbsp;&bull;&nbsp;
-  <a href="#about">Menu 2</a>
+  <a href="#about-me">About Me</a> &nbsp;&bull;&nbsp;
+  <a href="#hobbies">Hobbies</a>
 </p>
 
 ---
 
-### 👨‍💻 : &nbsp;About Me :
+### About Me
 
 Greetings! My name is **Gabriel Martin**, also known as [chwhiz](https://github.com/chwhiz/). 
 
 - I'm a Grade 10 student this academic year 2024-2025
-- I stan multiple
+- A K-Pop stan ([WHIZ](https://www.youtube.com/@TheWind_official), [CARAT](https://www.youtube.com/channel/UCfkXDY7vwkcJ8ddFGz8KusA), [42](https://www.youtube.com/@TWS_PLEDIS), and [WIZ*ONE](https://www.youtube.com/channel/UCe_oTYByLWQYCUmgmOMU_xw))
 - I play instruments and program as a hobby.
 
 ---
@@ -37,25 +37,16 @@ Greetings! My name is **Gabriel Martin**, also known as [chwhiz](https://github.
 ---
 
 
-### 🛠 &nbsp;Languages that I know :
+### Notice
+sa susunod ko pa babaguhin 'to kaya wait lang
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" alt="Visual Basic" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeonnotcool&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chwhiz&theme=light&background=eff9ef)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonnotcool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwhiz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
