@@ -29,7 +29,7 @@
   <a href="#-certifications--badges">Badges</a> &nbsp;•&nbsp;
   <a href="#-homelab--projects">Homelab & Projects</a> &nbsp;•&nbsp;
   <a href="#-favorite-album">Music</a> &nbsp;•&nbsp;
-  <a href="#-stats">Stats</a>
+  <a href="#-stats--activity">Stats</a>
 </p>
 
 ---
@@ -39,8 +39,8 @@
 Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **University of Perpetual Help System DALTA** (Molino Campus) and a self-taught sysadmin/developer. When I'm not studying, I build homelabs, write code, or stan K-Pop.
 
 - 🎓 **Proud Perpetualite** · ICT 12-01 · F.L.A.M.E.D Head of Planning
-- 🖥️ **Homelab nerd** — I run Proxmox, Docker, Home Assistant, Authentik, OPNSense, NPMPlus, etc...
-- 🎵 **K-Pop stan** — WHIZ, CARAT, 42 (TWS), WIZ*ONE
+- 🖥️ **Homelab nerd** : I run Proxmox, Docker, Home Assistant, Authentik, OPNSense, NPMPlus, and more.
+- 🎵 **K-Pop stan** : WHIZ, CARAT, 42 (TWS), WIZ*ONE
 - 🗣️ **Languages:** Filipino · English · 한국어
 - 🐧 *I use Arch, btw.*
 
@@ -120,7 +120,7 @@ Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **Universi
     <img src="https://i.scdn.co/image/ab67616d0000b273bdf3aa77def2ff70276ed8dd" width="190" alt="Beginning : The Wind Page - The Wind" />
   </a>
   <br />
-  <b>Beginning : The Wind Page</b> — The Wind (더윈드)
+  <b>Beginning : The Wind Page</b> : The Wind (더윈드)
   <br />
   <a href="https://open.spotify.com/album/3e4bWJGjQCBkDveRgcKhTM">
     <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Listen on Spotify" />
