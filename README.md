@@ -93,7 +93,7 @@ Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **Universi
 - 🔀 **Ruijie Reyee** switches (RG-ES205GC & RG-ES208GC) for local gigabit switching
 - 🔐 **Authentik** for centralized SSO authentication
 - 🌐 **NPMPlus** for SSL certs and reverse-proxying Docker containers
-- 🏠 **Home Assistant** with **Zigbee** for my smart home devices
+- 🏠 **Home Assistant** with **Zigbee** & **Matter (over Thread)** for my smart home devices
 - 🎬 **Jellyfin** for local media streaming
 - 📚 Self-hosting microservices and containers on **Proxmox VE**
 
@@ -106,7 +106,7 @@ Hey! I'm **Gabriel Martin**, a Grade 12 Senior High School student at **Universi
 | **Dell Wyse 5070** | Intel Pentium Silver J5005 · 12GB RAM · 128GB SSD | Proxmox VE |
 | **Router Box** | Dedicated Appliance | OPNsense |
 | **Switches** | Ruijie Reyee RG-ES205GC & RG-ES208GC | Managed Gigabit |
-| **Smart Home** | Zigbee Hub / Controller | Home Assistant OS |
+| **Smart Home** | Zigbee & Matter (over Thread) | Home Assistant OS |
 | **ISP** | PLDT Home Fiber | Main Gateway |
 
 </details>
